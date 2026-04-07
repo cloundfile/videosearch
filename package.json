@@ -1,0 +1,40 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.1.28",
+    "@tabler/icons-react-native": "^3.36.1",
+    "expo": "~54.0.33",
+    "expo-av": "~16.0.8",
+    "expo-file-system": "~19.0.21",
+    "expo-linking": "~8.0.11",
+    "expo-media-library": "~18.2.1",
+    "expo-screen-orientation": "~9.0.8",
+    "expo-sharing": "~14.0.8",
+    "expo-speech-recognition": "^3.1.0",
+    "expo-status-bar": "~3.0.9",
+    "expo-system-ui": "^55.0.9",
+    "expo-video": "~3.0.16",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-compressor": "^1.16.0",
+    "react-native-fs": "^2.20.0",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "react-native-svg": "15.12.1",
+    "react-native-webview": "13.15.0",
+    "react-native-youtube-iframe": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
